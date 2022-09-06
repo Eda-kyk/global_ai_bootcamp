@@ -1,6 +1,7 @@
 # global_ai_bootcamp
 Global AI HUB Bootcamp project answers.
 
+We did this project as team with @GulsahKLC and @Eda-kyk
 
 Project 1
 
